@@ -38,5 +38,8 @@
     <ClCompile Include="Employee.h">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ComboDelegate.h">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -155,6 +155,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ComboDelegate.h" />
     <ClCompile Include="DynamicTable.cpp" />
     <ClCompile Include="Employee.h" />
     <ClCompile Include="Hellow.cpp" />
